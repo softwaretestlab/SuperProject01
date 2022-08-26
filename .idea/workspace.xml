@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15a222c6-8ed7-40d7-8c2f-33fbd675bc4e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseClass/Automation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationLearning/src/main/java/excelReader/Xls_Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutomationLearning/src/main/java/excelReader/Xls_Reader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT04_xpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT04_xpath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT05_cssSelectors.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT05_cssSelectors.java" afterDir="false" />
@@ -87,15 +88,21 @@
       <change beforePath="$PROJECT_DIR$/../ProjectSetup/src/test/java/StepDefinations/SD02_CreateMultipleAcc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSetup/src/test/java/StepDefinations/SD02_CreateMultipleAcc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProjectSetup/src/test/java/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSetup/src/test/java/runner/TestRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RamyaProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RamyaProject/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2Duf5GBh4YJMt1SJXd8t6txF4aA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
