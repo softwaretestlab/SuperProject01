@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15a222c6-8ed7-40d7-8c2f-33fbd675bc4e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../AutomationLearning/src/main/java/excelReader/Xls_Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutomationLearning/src/main/java/excelReader/Xls_Reader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT04_xpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT04_xpath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT05_cssSelectors.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT05_cssSelectors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT06_GetAttValNListNisSelected.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT06_GetAttValNListNisSelected.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT07_IsEnabled.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT07_IsEnabled.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT08_DropDownSelect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT08_DropDownSelect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT09_Tabs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT09_Tabs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT10_ExcelDatausage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT10_ExcelDatausage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject.7z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/main/java/BaseClass/OpenBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/main/java/BaseClass/OpenBrowser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/main/java/PropertiesFile/ProjectName.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/main/java/PropertiesFile/ProjectName.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/main/java/PropertiesFile/ReadPropertiesFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/main/java/PropertiesFile/ReadPropertiesFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/main/java/excelReader/Xls_Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/main/java/excelReader/Xls_Reader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/main/java/utilities/TestDataHN1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/main/java/utilities/TestDataHN1.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/CucumberScripts/AT01_NavigateToHNsite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/CucumberScripts/AT01_NavigateToHNsite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/CucumberScripts/AT02_NavigateToEchosite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/CucumberScripts/AT02_NavigateToEchosite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/FeatrureFiles/FF01_NavigateToHNwebsite.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/FeatrureFiles/FF01_NavigateToHNwebsite.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/FeatrureFiles/FF02_rusesteps.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/FeatrureFiles/FF02_rusesteps.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/FeatrureFiles/FF03_ScenarioExamplesLearning.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/FeatrureFiles/FF03_ScenarioExamplesLearning.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaLearning/AT03_Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaLearning/AT03_Method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaLearning/AT05_CreateAnObjectAndUseIt01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaLearning/AT05_CreateAnObjectAndUseIt01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaLearning/AT06_CreateAnObjectAndUseIt02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaLearning/AT06_CreateAnObjectAndUseIt02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaLearning/AT07_staticMethod01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaLearning/AT07_staticMethod01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaLearning/AT08_staticMethod02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaLearning/AT08_staticMethod02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaLearning/AT09_AccessArrayEle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaLearning/AT09_AccessArrayEle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaLearning/AT10_ArrayLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaLearning/AT10_ArrayLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaLearning/HashMapLearn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaLearning/HashMapLearn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT01_constructor01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT01_constructor01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT02_constructor02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT02_constructor02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT03_Encapsulation01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT03_Encapsulation01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT04_Encapsulation02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT04_Encapsulation02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT05_InHeritance01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT05_InHeritance01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT06_InHeritance02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT06_InHeritance02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT07_InHeritance03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT07_InHeritance03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT08_Polymorphism_MethodOverLoading01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT08_Polymorphism_MethodOverLoading01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT09_Polymorphism_MethodOverLoading02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT09_Polymorphism_MethodOverLoading02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT10_Polymorphism_MethodOverRiding01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT10_Polymorphism_MethodOverRiding01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT11_Polymorphism_MethodOverRiding02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT11_Polymorphism_MethodOverRiding02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT12_Polymorphism_MethodOverRiding03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT12_Polymorphism_MethodOverRiding03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT13_AbstractClass01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT13_AbstractClass01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT14_AbstractClass02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT14_AbstractClass02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT15_Interface01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT15_Interface01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT16_Interface02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/JavaOOPSconcepts/AT16_Interface02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/LoopsNConditionalStatments/AT01_ForLoop01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/LoopsNConditionalStatments/AT01_ForLoop01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/LoopsNConditionalStatments/AT02_WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/LoopsNConditionalStatments/AT02_WhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/LoopsNConditionalStatments/AT03_DoWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/LoopsNConditionalStatments/AT03_DoWhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/LoopsNConditionalStatments/AT04_IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/LoopsNConditionalStatments/AT04_IfElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/LoopsNConditionalStatments/AT05_ElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/LoopsNConditionalStatments/AT05_ElseIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/LoopsNConditionalStatments/AT06_SwitchStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/LoopsNConditionalStatments/AT06_SwitchStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/PlayPen/OpenBrowserUsage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/PlayPen/OpenBrowserUsage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/SeleniumLearning/AT009_IsEnabled.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/SeleniumLearning/AT009_IsEnabled.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/SeleniumLearning/AT01_NavigateTitleAssertScreenshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/SeleniumLearning/AT01_NavigateTitleAssertScreenshot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/SeleniumLearning/AT02_locators.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/SeleniumLearning/AT02_locators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/SeleniumLearning/AT03_CustomXpathNcss.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/SeleniumLearning/AT03_CustomXpathNcss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/SeleniumLearning/AT04_closeQuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/SeleniumLearning/AT04_closeQuit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/SeleniumLearning/AT05_getAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/SeleniumLearning/AT05_getAttribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/SeleniumLearning/AT06_SelectUsageForDropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/SeleniumLearning/AT06_SelectUsageForDropDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/SeleniumLearning/AT07_IframeLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/SeleniumLearning/AT07_IframeLearning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/SeleniumLearning/AT08_RadioButtons_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/SeleniumLearning/AT08_RadioButtons_List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/SeleniumLearning/AT10_WebTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/SeleniumLearning/AT10_WebTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/SeleniumLearning/AT11_UserDir.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/SeleniumLearning/AT11_UserDir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/SeleniumLearning/AT12_ExcelUsage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/SeleniumLearning/AT12_ExcelUsage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/StepDefinations/SD01_NavigateToHNWebsite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/StepDefinations/SD01_NavigateToHNWebsite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/StepDefinations/SD02_NavigateToEchoWebsite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/StepDefinations/SD02_NavigateToEchoWebsite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/StepDefinations/SD03_CreateMultipleAcc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/StepDefinations/SD03_CreateMultipleAcc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HinaProject/src/test/java/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/test/java/runner/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSetup/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSetup/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSetup/src/main/java/BaseClass/OpenBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSetup/src/main/java/BaseClass/OpenBrowser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSetup/src/main/java/PropertiesFile/ProjectName.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSetup/src/main/java/PropertiesFile/ProjectName.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSetup/src/main/java/PropertiesFile/ReadPropertiesFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSetup/src/main/java/PropertiesFile/ReadPropertiesFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSetup/src/main/java/excelReader/Xls_Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSetup/src/main/java/excelReader/Xls_Reader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSetup/src/test/java/FeatureFiles/FF01_NaviagteToHNwebsite.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSetup/src/test/java/FeatureFiles/FF01_NaviagteToHNwebsite.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSetup/src/test/java/FeatureFiles/FF02_ScenarioExamples.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSetup/src/test/java/FeatureFiles/FF02_ScenarioExamples.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSetup/src/test/java/Homepage/AT01_navigateTowebsite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSetup/src/test/java/Homepage/AT01_navigateTowebsite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSetup/src/test/java/PlayPen/BaseClassVerify.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSetup/src/test/java/PlayPen/BaseClassVerify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSetup/src/test/java/PlayPen/ProjectDirectory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSetup/src/test/java/PlayPen/ProjectDirectory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSetup/src/test/java/Registeration/AT02_CreateUsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSetup/src/test/java/Registeration/AT02_CreateUsers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSetup/src/test/java/StepDefinations/SD01_navigateToHNwebsite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSetup/src/test/java/StepDefinations/SD01_navigateToHNwebsite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSetup/src/test/java/StepDefinations/SD02_CreateMultipleAcc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSetup/src/test/java/StepDefinations/SD02_CreateMultipleAcc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSetup/src/test/java/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSetup/src/test/java/runner/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RamyaProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RamyaProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Duf5GBh4YJMt1SJXd8t6txF4aA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\softw\IdeaProjects\SuperProject01\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AT14_SwitchTabs.SwitchTabLearn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SuperProject01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumLearning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumLearning" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT14_SwitchTabs" />
+      <option name="METHOD_NAME" value="SwitchTabLearn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AT14_SwitchTabs.SwitchTabLearn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15a222c6-8ed7-40d7-8c2f-33fbd675bc4e" name="Changes" comment="" />
+      <created>1661553706631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661553706631</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
