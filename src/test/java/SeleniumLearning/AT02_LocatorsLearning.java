@@ -1,5 +1,6 @@
 package SeleniumLearning;
 
+import PropertiesFile.ReadPropertiesFile;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.Test;
 import org.openqa.selenium.By;
@@ -7,12 +8,13 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
+import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
 public class AT02_LocatorsLearning {
 
     @Test
-    public void locLearn(){
+    public void locLearn() throws IOException {
         //Setting up chromedriver.
         WebDriverManager.chromedriver().setup();
         //options
@@ -23,7 +25,9 @@ public class AT02_LocatorsLearning {
         //maximize browser
         driver.manage().window().maximize();
         // navigate to HN website
-        driver.get("https://www.thegoodguys.com.au/UserRegistrationForm?myAcctMain=1&new=Y&catalogId=30000&langId=-1&storeId=900");
+      //  driver.get("https://www.thegoodguys.com.au/UserRegistrationForm?myAcctMain=1&new=Y&catalogId=30000&langId=-1&storeId=900");
+
+        driver.get(ReadPropertiesFile.PropFile("GGHomePageUrl"));
         //implicit wait
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         //by id
