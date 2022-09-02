@@ -1,0 +1,129 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-09-02T22:57:38.138Z",
+        "line": 4,
+        "name": "Login to GG website",
+        "description": "",
+        "id": "login;login-to-gg-website",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7792000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "open browser and enter url and navigate to GG website",
+            "match": {
+              "location": "StepDefination.SD01_LoginToGGweb.open_browser_and_enter_url_and_navigate_to_gg_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 178000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "from homepage click on Account link and system should navigate to login screen",
+            "match": {
+              "location": "StepDefination.SD01_LoginToGGweb.from_homepage_click_on_account_link_and_system_should_navigate_to_login_screen()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2221000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Enter username",
+            "match": {
+              "location": "StepDefination.SD01_LoginToGGweb.enter_username()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@RegressionTest"
+          },
+          {
+            "name": "@SmokeTest"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-09-02T22:57:48.406Z",
+        "line": 8,
+        "name": "Login to GG website",
+        "description": "",
+        "id": "login;login-to-gg-website",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6787000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "open browser and enter url and navigate to GG website",
+            "match": {
+              "location": "StepDefination.SD01_LoginToGGweb.open_browser_and_enter_url_and_navigate_to_gg_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3098000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "from homepage click on Account link and system should navigate to login screen",
+            "match": {
+              "location": "StepDefination.SD01_LoginToGGweb.from_homepage_click_on_account_link_and_system_should_navigate_to_login_screen()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 93000000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Enter username",
+            "match": {
+              "location": "StepDefination.SD01_LoginToGGweb.enter_username()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@RegressionTest"
+          }
+        ]
+      }
+    ],
+    "name": "Login",
+    "description": "",
+    "id": "login",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/FeatureFile/FF01_LoginToGGweb.feature",
+    "tags": [
+      {
+        "name": "@RegressionTest",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

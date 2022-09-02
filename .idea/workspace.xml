@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15a222c6-8ed7-40d7-8c2f-33fbd675bc4e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PropertiesFile/ProjectName.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Resources/TestDataHN1.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/Xls_Reader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT15_ExcelDataUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FeatureFile/FF01_LoginToGGweb.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FeatureFile/FF02_NaviToGG.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FeatureFile/FF03_CreateAnAccount.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumCode/AT01_LoginToGGWeb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumCode/AT04_CreateAnAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StepDefination/SD01_LoginToGGweb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StepDefination/SD04_CreatAnAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationLearning/src/main/java/excelReader/Xls_Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutomationLearning/src/main/java/excelReader/Xls_Reader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT04_xpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT04_xpath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT05_cssSelectors.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT05_cssSelectors.java" afterDir="false" />
@@ -18,7 +21,12 @@
       <change beforePath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT08_DropDownSelect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT08_DropDownSelect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT09_Tabs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT09_Tabs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT10_ExcelDatausage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutomationLearning/src/test/java/SeleniumLearning/AT10_ExcelDatausage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DileepProject/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DileepProject/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DileepProject/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../DileepProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DileepProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DileepProject/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DileepProject/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DileepProject/src/test/java/BasicsOfJava/AT02_LearnAboutMethod_JUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DileepProject/src/test/java/BasicsOfJava/AT02_LearnAboutMethod_JUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DileepProject/target/test-classes/BasicsOfJava/AT02_LearnAboutMethod_JUnit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DileepProject/target/test-classes/BasicsOfJava/AT02_LearnAboutMethod_JUnit.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HinaProject.7z" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HinaProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HinaProject/src/main/java/BaseClass/OpenBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HinaProject/src/main/java/BaseClass/OpenBrowser.java" afterDir="false" />
@@ -92,15 +100,17 @@
       <change beforePath="$PROJECT_DIR$/../ProjectSetup/src/test/java/StepDefinations/SD01_navigateToHNwebsite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSetup/src/test/java/StepDefinations/SD01_navigateToHNwebsite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProjectSetup/src/test/java/StepDefinations/SD02_CreateMultipleAcc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSetup/src/test/java/StepDefinations/SD02_CreateMultipleAcc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProjectSetup/src/test/java/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSetup/src/test/java/runner/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RamyaProject/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../RamyaProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RamyaProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PropertiesFile/afsfdff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PropertiesFile/ReadPropertiesFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BasicOfJava/USerDirExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BasicOfJava/USerDirExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BaseClass/Automation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BaseClass/OpenBrowser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PropertiesFile/ProjectName.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PropertiesFile/ProjectName.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT01_NavigateTitleAssertScreenshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT01_NavigateTitleAssertScreenshot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT02_LocatorsLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT02_LocatorsLearning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BaseClass/Automation.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT01_NavigateTitleAssertScreenshot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT01_NavigateTitleAssertScreenshot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT02_LocatorsLearning.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT02_LocatorsLearning.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +127,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2Duf5GBh4YJMt1SJXd8t6txF4aA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -125,93 +138,107 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Resources" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\softw\IdeaProjects\SuperProject01\src\main\java\Resources" />
       <recent name="C:\Users\softw\IdeaProjects\SuperProject01\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AT15_ExcelDataUsage.table">
-    <configuration name="AT01_NavigateTitleAssertScreenshot.NavHn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="Feature: FF01_LoginToGGweb" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/FeatureFile/FF01_LoginToGGweb.feature" />
+      <option name="GLUE" value="StepDefination" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="SuperProject01" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: FF01_LoginToGGweb" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SeleniumLearning.*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="SeleniumLearning" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT01_NavigateTitleAssertScreenshot" />
-      <option name="METHOD_NAME" value="NavHn" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AT02_LocatorsLearning.locLearn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Creating an account with valid data" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/FeatureFile/FF03_CreateAnAccount.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="SuperProject01" />
+      <option name="NAME_FILTER" value="^Creating an account with valid data$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Creating an account with valid data$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Creating an account with valid data" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SeleniumLearning.*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="SeleniumLearning" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT02_LocatorsLearning" />
-      <option name="METHOD_NAME" value="locLearn" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AT15_ExcelDataUsage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Login to GG website" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/FeatureFile/FF01_LoginToGGweb.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="SuperProject01" />
+      <option name="NAME_FILTER" value="^Login to GG website$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Login to GG website$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Login to GG website" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SeleniumLearning.*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="SeleniumLearning" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT15_ExcelDataUsage" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AT15_ExcelDataUsage.table" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Navigate to GG website" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/FeatureFile/FF02_NaviToGG.feature" />
+      <option name="GLUE" value="StepDefination" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="SuperProject01" />
+      <option name="NAME_FILTER" value="^Navigate to GG website$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Navigate to GG website$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Navigate to GG website" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SeleniumLearning.*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="SeleniumLearning" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT15_ExcelDataUsage" />
-      <option name="METHOD_NAME" value="table" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="USerDirExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SuperProject01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicOfJava.*" />
+          <option name="PATTERN" value="Runner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="BasicOfJava" />
-      <option name="MAIN_CLASS_NAME" value="BasicOfJava.USerDirExample" />
+      <option name="PACKAGE_NAME" value="Runner" />
+      <option name="MAIN_CLASS_NAME" value="Runner.TestRunner" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -219,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AT15_ExcelDataUsage.table" />
-        <item itemvalue="JUnit.AT15_ExcelDataUsage" />
-        <item itemvalue="JUnit.USerDirExample" />
-        <item itemvalue="JUnit.AT02_LocatorsLearning.locLearn" />
-        <item itemvalue="JUnit.AT01_NavigateTitleAssertScreenshot.NavHn" />
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="Cucumber Java.Scenario: Creating an account with valid data" />
+        <item itemvalue="Cucumber Java.Scenario: Navigate to GG website" />
+        <item itemvalue="Cucumber Java.Feature: FF01_LoginToGGweb" />
+        <item itemvalue="Cucumber Java.Scenario: Login to GG website" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +275,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

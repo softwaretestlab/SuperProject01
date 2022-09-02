@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="20.382">
+<testcase classname="Login" name="Login to GG website" time="10.261">
+<system-out><![CDATA[Given open browser and enter url and navigate to GG website.................passed
+Then from homepage click on Account link and system should navigate to login screen.passed
+Then Enter username.........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login" name="Login to GG website 2" time="9.98">
+<system-out><![CDATA[Given open browser and enter url and navigate to GG website.................passed
+Then from homepage click on Account link and system should navigate to login screen.passed
+Then Enter username.........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

@@ -1,0 +1,12 @@
+
+@RegressionTest @SmokeTest
+Scenario: Login to GG website                                                         [90m# src/test/java/FeatureFile/FF01_LoginToGGweb.feature:4[0m
+  [32mGiven [0m[32mopen browser and enter url and navigate to GG website[0m                         [90m# StepDefination.SD01_LoginToGGweb.open_browser_and_enter_url_and_navigate_to_gg_website()[0m
+  [32mThen [0m[32mfrom homepage click on Account link and system should navigate to login screen[0m [90m# StepDefination.SD01_LoginToGGweb.from_homepage_click_on_account_link_and_system_should_navigate_to_login_screen()[0m
+  [32mThen [0m[32mEnter username[0m                                                                 [90m# StepDefination.SD01_LoginToGGweb.enter_username()[0m
+
+@RegressionTest
+Scenario: Login to GG website                                                         [90m# src/test/java/FeatureFile/FF01_LoginToGGweb.feature:8[0m
+  [32mGiven [0m[32mopen browser and enter url and navigate to GG website[0m                         [90m# StepDefination.SD01_LoginToGGweb.open_browser_and_enter_url_and_navigate_to_gg_website()[0m
+  [32mThen [0m[32mfrom homepage click on Account link and system should navigate to login screen[0m [90m# StepDefination.SD01_LoginToGGweb.from_homepage_click_on_account_link_and_system_should_navigate_to_login_screen()[0m
+  [32mThen [0m[32mEnter username[0m                                                                 [90m# StepDefination.SD01_LoginToGGweb.enter_username()[0m

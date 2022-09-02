@@ -1,5 +1,6 @@
 package SeleniumLearning;
 
+import BaseClass.OpenBrowser;
 import PropertiesFile.ReadPropertiesFile;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.commons.io.FileUtils;
@@ -19,22 +20,23 @@ public class AT01_NavigateTitleAssertScreenshot {
 
     @Test
     public void NavHn() throws IOException {
-        //Setting up chromedriver.
-        WebDriverManager.chromedriver().setup();
-        //options
-        ChromeOptions chromeOptions = new ChromeOptions();
-        //we create an object of WebDriver
-        WebDriver driver = new ChromeDriver(chromeOptions);
-        //At this point browser will be opened
-        //maximize browser
-        driver.manage().window().maximize();
-        // navigate to HN website
-     //   driver.get("https://www.harveynorman.com.au/");
-        driver.get(ReadPropertiesFile.PropFile("HomePageUrl"));
+//        //Setting up chromedriver.
+//        WebDriverManager.chromedriver().setup();
+//        //options
+//        ChromeOptions chromeOptions = new ChromeOptions();
+//        //we create an object of WebDriver
+//        WebDriver driver = new ChromeDriver(chromeOptions);
+//        //At this point browser will be opened
+//        //maximize browser
+//        driver.manage().window().maximize();
+//        // navigate to HN website
+//     //   driver.get("https://www.harveynorman.com.au/");
+//        driver.get(ReadPropertiesFile.PropFile("HomePageUrl"));
+        OpenBrowser.NavToWebsite(ReadPropertiesFile.PropFile("HomePageUrl"));
         //implicit wait
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        OpenBrowser.driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         //get title
-        String ActualTitle = driver.getTitle();
+        String ActualTitle = OpenBrowser.driver.getTitle();
         System.out.println("ActualTitle : " +ActualTitle);
         String ExpectedTitle = "Computers, Electrical, Furniture & Bedding | Harvey Norman Australia";
         //Assertion version-1
@@ -42,7 +44,7 @@ public class AT01_NavigateTitleAssertScreenshot {
         //Assertion version-2
         Assert.assertTrue(ActualTitle.contains("Furniture"));
         //Screenshot
-        File screenshotFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+        File screenshotFile = ((TakesScreenshot)OpenBrowser.driver).getScreenshotAs(OutputType.FILE);
         FileUtils.copyFile(screenshotFile, new File("C:\\Users\\etikalaj\\screenshot.png"));
 
     }
